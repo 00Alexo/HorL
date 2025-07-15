@@ -114,8 +114,7 @@ const Home = () => {
         if (countryIndex > -1) {
             countriesData.countries.splice(countryIndex, 1);
         }
-
-        console.log(selectedCountry);
+        
         return selectedCountry;
     }
 
