@@ -1,0 +1,1396 @@
+{
+  "countries": [
+    {
+      "name": "India",
+      "code": "IN",
+      "population": 1445004385,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "population": 1410323776,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "population": 331002651,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "population": 273523615,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "population": 220892340,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "population": 212559417,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "population": 206139589,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "population": 164689383,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "population": 145934462,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "population": 128932753,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "population": 126476461,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "population": 114963588,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "population": 109581078,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "population": 102334404,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "population": 97338579,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "population": 84339067,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Iran",
+      "code": "IR",
+      "population": 83992949,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "population": 83783942,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "population": 69799978,
+      "difficulty": "easy"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "population": 67886011,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "population": 65273511,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "population": 60461826,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "population": 59734218,
+      "difficulty": "medium"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "population": 59308690,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "population": 54409800,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "population": 53771296,
+      "difficulty": "medium"
+    },
+    {
+      "name": "South Korea",
+      "code": "KR",
+      "population": 51269185,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "population": 50882891,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "population": 46754778,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "population": 45741007,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "population": 45195774,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "population": 43851044,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "population": 43849260,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "population": 43733762,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "population": 40222493,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "population": 38928346,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "population": 37846611,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "population": 37742154,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "population": 36910560,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "population": 34813871,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "population": 33469203,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "population": 32971854,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "population": 32866272,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "population": 32365999,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "population": 31255435,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "population": 31072940,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "population": 29825964,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "population": 29136808,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE",
+      "population": 28435940,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "population": 27691018,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "population": 26545863,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "code": "CI",
+      "population": 26378274,
+      "difficulty": "hard"
+    },
+    {
+      "name": "North Korea",
+      "code": "KP",
+      "population": 25778816,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "population": 25499884,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "population": 24206644,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "population": 21413249,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "population": 20903273,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "population": 20250833,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "population": 19237691,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "population": 19129952,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "population": 19116201,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "population": 18776707,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "population": 18383955,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "population": 17915568,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "population": 17643054,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Syria",
+      "code": "SY",
+      "population": 17500658,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "population": 17134872,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "population": 16743927,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "population": 16718965,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "population": 16425864,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "population": 15893222,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "population": 14862924,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "population": 13132795,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "population": 12952218,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "population": 12123200,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "population": 11890784,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "population": 11818619,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "population": 11673021,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "population": 11589623,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "population": 11402528,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "population": 11326616,
+      "difficulty": "medium"
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "population": 11193725,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "population": 10847910,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "population": 10708981,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "population": 10423054,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "population": 10203134,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "population": 10196709,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "population": 10139177,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "population": 10099265,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "population": 9904607,
+      "difficulty": "medium"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "population": 9890402,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "population": 9660351,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "population": 9537645,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "population": 9449323,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "population": 9006398,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "population": 8947024,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "population": 8737371,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "population": 8655535,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "population": 8654622,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "population": 8278724,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "population": 7976983,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK",
+      "population": 7496981,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "population": 7275560,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "population": 7132538,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "population": 6948445,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "population": 6871292,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "population": 6825445,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "population": 6624554,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "population": 6524195,
+      "difficulty": "hard"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "population": 6486205,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "population": 6031200,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "population": 5850342,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "population": 5792202,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "population": 5540720,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Congo",
+      "code": "CG",
+      "population": 5518087,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "population": 5459642,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "population": 5421241,
+      "difficulty": "very_easy"
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "population": 5106626,
+      "difficulty": "medium"
+    },
+    {
+      "name": "State of Palestine",
+      "code": "PS",
+      "population": 5101414,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "population": 5094118,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "population": 5057681,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "population": 4937786,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "population": 4829767,
+      "difficulty": "hard"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "population": 4822233,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "population": 4649658,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "population": 4314767,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "population": 4270571,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "population": 4105267,
+      "difficulty": "easy"
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "population": 4033963,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "population": 3989167,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "population": 3546421,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "population": 3473730,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "population": 3280819,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "population": 3278290,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "population": 2963243,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "population": 2961167,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "population": 2881053,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "population": 2877797,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "population": 2860853,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "population": 2722289,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "population": 2540905,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "population": 2416668,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "population": 2351627,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "population": 2225734,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "population": 2142249,
+      "difficulty": "hard"
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "population": 2083374,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "population": 2078938,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "population": 1968001,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "population": 1886198,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "population": 1701575,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "population": 1402985,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "population": 1399488,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "population": 1326535,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "population": 1318445,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "population": 1271768,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "population": 1207359,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "population": 1160164,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "population": 988000,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "population": 896445,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Réunion",
+      "code": "RE",
+      "population": 895312,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "population": 869601,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "population": 786552,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "population": 771608,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "population": 686884,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Macao",
+      "code": "MO",
+      "population": 649335,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "population": 628066,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "population": 625978,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH",
+      "population": 597339,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "population": 586632,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "population": 555987,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "population": 548914,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "population": 540544,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "population": 441543,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Brunei",
+      "code": "BN",
+      "population": 437479,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP",
+      "population": 400124,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "population": 397628,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "population": 393244,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ",
+      "population": 375265,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "population": 341243,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "population": 307145,
+      "difficulty": "hard"
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "population": 298682,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "population": 287375,
+      "difficulty": "medium"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC",
+      "population": 285498,
+      "difficulty": "hard"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "population": 280908,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT",
+      "population": 272815,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "population": 198414,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "population": 183627,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Channel Islands",
+      "code": "JE",
+      "population": 173863,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "population": 168775,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Curaçao",
+      "code": "CW",
+      "population": 164093,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "population": 119449,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "population": 112523,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "population": 110940,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Aruba",
+      "code": "AW",
+      "population": 106766,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "population": 105695,
+      "difficulty": "hard"
+    },
+    {
+      "name": "United States Virgin Islands",
+      "code": "VI",
+      "population": 104425,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "population": 98347,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "population": 97929,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM",
+      "population": 85033,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "population": 77265,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "population": 71986,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY",
+      "population": 65722,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM",
+      "population": 62278,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "population": 59190,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "population": 57559,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Greenland",
+      "code": "GL",
+      "population": 56770,
+      "difficulty": "hard"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS",
+      "population": 55191,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "population": 53199,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO",
+      "population": 48863,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Sint Maarten",
+      "code": "SX",
+      "population": 42876,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "population": 39242,
+      "difficulty": "medium"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "population": 38717,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Martin",
+      "code": "MF",
+      "population": 38666,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "population": 38128,
+      "difficulty": "hard"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "population": 33931,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI",
+      "population": 33691,
+      "difficulty": "hard"
+    },
+    {
+      "name": "British Virgin Islands",
+      "code": "VG",
+      "population": 30231,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Caribbean Netherlands",
+      "code": "BQ",
+      "population": 26223,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "population": 18094,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK",
+      "population": 17564,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Anguilla",
+      "code": "AI",
+      "population": 15003,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "population": 11792,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "code": "WF",
+      "population": 11239,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "population": 10824,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "code": "BL",
+      "population": 9877,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Helena",
+      "code": "SH",
+      "population": 6077,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "population": 5794,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Montserrat",
+      "code": "MS",
+      "population": 4992,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Falkland Islands",
+      "code": "FK",
+      "population": 3480,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Niue",
+      "code": "NU",
+      "population": 1626,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK",
+      "population": 1357,
+      "difficulty": "hard"
+    },
+    {
+      "name": "Holy See",
+      "code": "VA",
+      "population": 801,
+      "difficulty": "hard"
+    }
+  ]
+}
